@@ -1,4 +1,4 @@
-package HW_6;
+package DZ6;
 
 public class BinarySearch {
     public static int binarySearch(int[] array, int target) {
